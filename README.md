@@ -13,3 +13,7 @@ Hi, I'm Moca! You might know me from Tsuki's Adventure, always hopping around in
 |     1|  JavaScript   |
 |     2|   Python      |
 |     3|    SQL        |
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@jkxxhs20/30-nites-of-code)  
+  ![@jkxxhs20 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=jkxxhs20)
